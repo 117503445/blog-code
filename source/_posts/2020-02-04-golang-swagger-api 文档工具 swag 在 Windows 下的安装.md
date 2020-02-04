@@ -21,7 +21,7 @@ go get -u github.com/swaggo/swag/cmd/swag
 ### 下载编译
 
 ```sh
-Git clone https://github.com/swaggo/swag.git
+git clone https://github.com/swaggo/swag.git
 ```
 
 Clone 整个项目，自行编译，发现可以进行成功的编译。
