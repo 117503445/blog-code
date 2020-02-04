@@ -18,13 +18,13 @@ menu:
     target: _blank
 
 # 你的头像url
-avatar: /img/avatar.jpg
+avatar: /img/github-detective.png
 # avatar link
 avatar_link: /
 # 头像背景图
 brand: /img/brand.jpg
 # favicon
-favicon: /favicon.ico
+favicon: /img/favicon.ico
 
 # email
 email: t117503445@gmail.com
@@ -54,7 +54,7 @@ share: true
 reward: false
 
 # 是否开启搜索
-search: true
+search: false
 
 # 是否大屏幕下文章页隐藏导航
 hideMenu: true
@@ -140,8 +140,8 @@ about: 用户页面中作者相关的描述性文字，如不需要设为 false
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:
-  site_uv: 站点总访客数：
-  site_pv: 站点总访问量：
+  site_uv: 访客数：
+  site_pv: 访问量：
 
 # 动态定义title
 title_change: false
@@ -154,4 +154,4 @@ cdn: true
 lightbox: true
 
 # icp备案号  ICP_license: 京ICP备1234556号-1
-ICP_license: false
+ICP_license: 浙ICP备18051095号
