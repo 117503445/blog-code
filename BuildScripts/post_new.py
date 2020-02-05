@@ -10,8 +10,10 @@ def write_all_text(path: str, text: str):
 
 
 def get_text(title: str):
+    d = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
     s = f'''---
 title: {title}
+date: {d}
 ---
 '''
     return s

@@ -1,5 +1,6 @@
 ---
 title: Hello Hexo
+date: 2020-02-04 22:30
 ---
 
 ## Hello World
