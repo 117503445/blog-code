@@ -22,6 +22,5 @@ date: {d}
 if __name__ == "__main__":
     date = datetime.datetime.now().strftime('%Y-%m-%d-')
     title = input('please input title\n')
-    path = os.path.join(os.path.split(sys.path[0])[
-                        0], 'source', '_posts', f'{date}{title}.md')
+    path = os.path.join(sys.path[0], 'source', '_posts', f'{date}{title}.md')
     write_all_text(path, get_text(title))
